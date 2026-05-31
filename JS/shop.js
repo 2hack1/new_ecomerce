@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
         link.classList.remove("active");
       }
     });
-  }
+  }   
 
   function generatePaginationLinks() {
     const totalItems = productItems.length;
